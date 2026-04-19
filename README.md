@@ -22,3 +22,6 @@ This project analyzes factors affecting employee productivity using regression m
 
 ## Author
 Merve Öykü Öksüz
+## Report
+
+[View Full Report](./employee-productivity-analysis.pdf)
