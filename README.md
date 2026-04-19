@@ -24,4 +24,4 @@ This project analyzes factors affecting employee productivity using regression m
 Merve Öykü Öksüz
 ## Report
 
-[View Full Report](./employee-productivity-analysis.pdf)
+[View Full Report](./EMPLOYEE PRODUCTIVITY ANALYSIS USING REGRESSION MODELS.pdf)
